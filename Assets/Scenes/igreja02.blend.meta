@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 90c5cd6cbf544c741b6425f5b293adcc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ajoelhador
+    100002: altar
+    100004: amb_o03
+    100006: apoioImagens
+    100008: apoioScar_rio
+    100010: apoioVela
+    100012: banco
+    100014: celling
+    100016: cercado
+    100018: cruz
+    100020: door
+    100022: floor
+    100024: //RootNode
+    100026: imagem_nsDores
+    100028: imagem_nsDores_001
+    100030: Sacr_rio
+    100032: stair
+    100034: vela
+    100036: vigas
+    100038: vitral_ecaristia
+    100040: vitral_Jesus
+    100042: vitral_Maria
+    100044: vitral_nsdores
+    100046: wall01
+    400000: ajoelhador
+    400002: altar
+    400004: amb_o03
+    400006: apoioImagens
+    400008: apoioScar_rio
+    400010: apoioVela
+    400012: banco
+    400014: celling
+    400016: cercado
+    400018: cruz
+    400020: door
+    400022: floor
+    400024: //RootNode
+    400026: imagem_nsDores
+    400028: imagem_nsDores_001
+    400030: Sacr_rio
+    400032: stair
+    400034: vela
+    400036: vigas
+    400038: vitral_ecaristia
+    400040: vitral_Jesus
+    400042: vitral_Maria
+    400044: vitral_nsdores
+    400046: wall01
+    2100000: SCJ
+    2100002: vela
+    2100004: wood
+    2100006: nsDores
+    2100008: marble_vigas
+    2100010: vitral_Jesus
+    2100012: Material
+    2100014: vitral_Eucaristia
+    2100016: vitral_ns_dores
+    2100018: wall
+    2100020: sacrario
+    2100022: unnamed
+    2100024: door
+    2100026: floor
+    2300000: ajoelhador
+    2300002: altar
+    2300004: amb_o03
+    2300006: apoioImagens
+    2300008: apoioScar_rio
+    2300010: apoioVela
+    2300012: banco
+    2300014: celling
+    2300016: cercado
+    2300018: cruz
+    2300020: door
+    2300022: floor
+    2300024: imagem_nsDores
+    2300026: imagem_nsDores_001
+    2300028: Sacr_rio
+    2300030: stair
+    2300032: vela
+    2300034: vigas
+    2300036: vitral_ecaristia
+    2300038: vitral_Jesus
+    2300040: vitral_Maria
+    2300042: vitral_nsdores
+    2300044: wall01
+    3300000: ajoelhador
+    3300002: altar
+    3300004: amb_o03
+    3300006: apoioImagens
+    3300008: apoioScar_rio
+    3300010: apoioVela
+    3300012: banco
+    3300014: celling
+    3300016: cercado
+    3300018: cruz
+    3300020: door
+    3300022: floor
+    3300024: imagem_nsDores
+    3300026: imagem_nsDores_001
+    3300028: Sacr_rio
+    3300030: stair
+    3300032: vela
+    3300034: vigas
+    3300036: vitral_ecaristia
+    3300038: vitral_Jesus
+    3300040: vitral_Maria
+    3300042: vitral_nsdores
+    3300044: wall01
+    4300000: imagem_nsDores_001
+    4300002: vela
+    4300004: apoioVela
+    4300006: ajoelhador
+    4300008: amb_o03
+    4300010: imagem_nsDores
+    4300012: vigas
+    4300014: apoioImagens
+    4300016: vitral_Jesus
+    4300018: vitral_Maria
+    4300020: cruz
+    4300022: banco
+    4300024: vitral_ecaristia
+    4300026: vitral_nsdores
+    4300028: wall01
+    4300030: Sacr_rio
+    4300032: apoioScar_rio
+    4300034: door
+    4300036: stair
+    4300038: celling
+    4300040: cercado
+    4300042: altar
+    4300044: floor
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
